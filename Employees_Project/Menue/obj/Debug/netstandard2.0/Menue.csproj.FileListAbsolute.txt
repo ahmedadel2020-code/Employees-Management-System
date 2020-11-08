@@ -1,0 +1,18 @@
+D:\C#\Tasks\EmployeesBusinessLib\Menue\bin\Debug\netstandard2.0\Menue.deps.json
+D:\C#\Tasks\EmployeesBusinessLib\Menue\bin\Debug\netstandard2.0\Menue.dll
+D:\C#\Tasks\EmployeesBusinessLib\Menue\bin\Debug\netstandard2.0\Menue.pdb
+D:\C#\Tasks\EmployeesBusinessLib\Menue\obj\Debug\netstandard2.0\Menue.AssemblyInfoInputs.cache
+D:\C#\Tasks\EmployeesBusinessLib\Menue\obj\Debug\netstandard2.0\Menue.AssemblyInfo.cs
+D:\C#\Tasks\EmployeesBusinessLib\Menue\obj\Debug\netstandard2.0\Menue.csproj.CoreCompileInputs.cache
+D:\C#\Tasks\EmployeesBusinessLib\Menue\obj\Debug\netstandard2.0\Menue.dll
+D:\C#\Tasks\EmployeesBusinessLib\Menue\obj\Debug\netstandard2.0\Menue.pdb
+D:\C#\Tasks\EmployeesBusinessLib\Menue\obj\Debug\netstandard2.0\Menue.csprojAssemblyReference.cache
+D:\C#\Tasks\Final Project\Menue\bin\Debug\netstandard2.0\Menue.deps.json
+D:\C#\Tasks\Final Project\Menue\bin\Debug\netstandard2.0\Menue.dll
+D:\C#\Tasks\Final Project\Menue\bin\Debug\netstandard2.0\Menue.pdb
+D:\C#\Tasks\Final Project\Menue\obj\Debug\netstandard2.0\Menue.csprojAssemblyReference.cache
+D:\C#\Tasks\Final Project\Menue\obj\Debug\netstandard2.0\Menue.AssemblyInfoInputs.cache
+D:\C#\Tasks\Final Project\Menue\obj\Debug\netstandard2.0\Menue.AssemblyInfo.cs
+D:\C#\Tasks\Final Project\Menue\obj\Debug\netstandard2.0\Menue.csproj.CoreCompileInputs.cache
+D:\C#\Tasks\Final Project\Menue\obj\Debug\netstandard2.0\Menue.dll
+D:\C#\Tasks\Final Project\Menue\obj\Debug\netstandard2.0\Menue.pdb

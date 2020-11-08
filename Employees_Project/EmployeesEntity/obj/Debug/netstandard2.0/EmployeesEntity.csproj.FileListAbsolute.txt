@@ -1,0 +1,18 @@
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesEntity\bin\Debug\netstandard2.0\EmployeesEntity.deps.json
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesEntity\bin\Debug\netstandard2.0\EmployeesEntity.dll
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesEntity\bin\Debug\netstandard2.0\EmployeesEntity.pdb
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesEntity\obj\Debug\netstandard2.0\EmployeesEntity.csprojAssemblyReference.cache
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesEntity\obj\Debug\netstandard2.0\EmployeesEntity.AssemblyInfoInputs.cache
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesEntity\obj\Debug\netstandard2.0\EmployeesEntity.AssemblyInfo.cs
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesEntity\obj\Debug\netstandard2.0\EmployeesEntity.csproj.CoreCompileInputs.cache
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesEntity\obj\Debug\netstandard2.0\EmployeesEntity.dll
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesEntity\obj\Debug\netstandard2.0\EmployeesEntity.pdb
+D:\C#\Tasks\Final Project\EmployeesEntity\bin\Debug\netstandard2.0\EmployeesEntity.deps.json
+D:\C#\Tasks\Final Project\EmployeesEntity\bin\Debug\netstandard2.0\EmployeesEntity.dll
+D:\C#\Tasks\Final Project\EmployeesEntity\bin\Debug\netstandard2.0\EmployeesEntity.pdb
+D:\C#\Tasks\Final Project\EmployeesEntity\obj\Debug\netstandard2.0\EmployeesEntity.csprojAssemblyReference.cache
+D:\C#\Tasks\Final Project\EmployeesEntity\obj\Debug\netstandard2.0\EmployeesEntity.AssemblyInfoInputs.cache
+D:\C#\Tasks\Final Project\EmployeesEntity\obj\Debug\netstandard2.0\EmployeesEntity.AssemblyInfo.cs
+D:\C#\Tasks\Final Project\EmployeesEntity\obj\Debug\netstandard2.0\EmployeesEntity.csproj.CoreCompileInputs.cache
+D:\C#\Tasks\Final Project\EmployeesEntity\obj\Debug\netstandard2.0\EmployeesEntity.dll
+D:\C#\Tasks\Final Project\EmployeesEntity\obj\Debug\netstandard2.0\EmployeesEntity.pdb

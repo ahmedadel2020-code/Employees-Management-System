@@ -1,0 +1,24 @@
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesBusinessLib\bin\Debug\netstandard2.0\EmployeesBusinessLib.deps.json
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesBusinessLib\bin\Debug\netstandard2.0\EmployeesBusinessLib.dll
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesBusinessLib\bin\Debug\netstandard2.0\EmployeesBusinessLib.pdb
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesBusinessLib\bin\Debug\netstandard2.0\EmployeesEntity.dll
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesBusinessLib\bin\Debug\netstandard2.0\EmployeesEntity.pdb
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesBusinessLib\obj\Debug\netstandard2.0\EmployeesBusinessLib.csprojAssemblyReference.cache
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesBusinessLib\obj\Debug\netstandard2.0\EmployeesBusinessLib.AssemblyInfoInputs.cache
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesBusinessLib\obj\Debug\netstandard2.0\EmployeesBusinessLib.AssemblyInfo.cs
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesBusinessLib\obj\Debug\netstandard2.0\EmployeesBusinessLib.csproj.CoreCompileInputs.cache
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesBusinessLib\obj\Debug\netstandard2.0\EmployeesBusinessLib.csproj.CopyComplete
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesBusinessLib\obj\Debug\netstandard2.0\EmployeesBusinessLib.dll
+D:\C#\Tasks\EmployeesBusinessLib\EmployeesBusinessLib\obj\Debug\netstandard2.0\EmployeesBusinessLib.pdb
+D:\C#\Tasks\Final Project\EmployeesBusinessLib\bin\Debug\netstandard2.0\EmployeesBusinessLib.deps.json
+D:\C#\Tasks\Final Project\EmployeesBusinessLib\bin\Debug\netstandard2.0\EmployeesBusinessLib.dll
+D:\C#\Tasks\Final Project\EmployeesBusinessLib\bin\Debug\netstandard2.0\EmployeesBusinessLib.pdb
+D:\C#\Tasks\Final Project\EmployeesBusinessLib\bin\Debug\netstandard2.0\EmployeesEntity.dll
+D:\C#\Tasks\Final Project\EmployeesBusinessLib\bin\Debug\netstandard2.0\EmployeesEntity.pdb
+D:\C#\Tasks\Final Project\EmployeesBusinessLib\obj\Debug\netstandard2.0\EmployeesBusinessLib.csprojAssemblyReference.cache
+D:\C#\Tasks\Final Project\EmployeesBusinessLib\obj\Debug\netstandard2.0\EmployeesBusinessLib.AssemblyInfoInputs.cache
+D:\C#\Tasks\Final Project\EmployeesBusinessLib\obj\Debug\netstandard2.0\EmployeesBusinessLib.AssemblyInfo.cs
+D:\C#\Tasks\Final Project\EmployeesBusinessLib\obj\Debug\netstandard2.0\EmployeesBusinessLib.csproj.CoreCompileInputs.cache
+D:\C#\Tasks\Final Project\EmployeesBusinessLib\obj\Debug\netstandard2.0\EmployeesBusinessLib.csproj.CopyComplete
+D:\C#\Tasks\Final Project\EmployeesBusinessLib\obj\Debug\netstandard2.0\EmployeesBusinessLib.dll
+D:\C#\Tasks\Final Project\EmployeesBusinessLib\obj\Debug\netstandard2.0\EmployeesBusinessLib.pdb

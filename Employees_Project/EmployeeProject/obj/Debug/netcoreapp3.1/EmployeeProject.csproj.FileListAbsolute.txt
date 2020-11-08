@@ -1,0 +1,40 @@
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.exe
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.deps.json
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.runtimeconfig.json
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.runtimeconfig.dev.json
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.dll
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.pdb
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeesBusinessLib.dll
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeesEntity.dll
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeesBusinessLib.pdb
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeesEntity.pdb
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.csprojAssemblyReference.cache
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.AssemblyInfoInputs.cache
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.AssemblyInfo.cs
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.csproj.CoreCompileInputs.cache
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.csproj.CopyComplete
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.dll
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.pdb
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.genruntimeconfig.cache
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\bin\Debug\netcoreapp3.1\Menue.dll
+D:\C#\Tasks\EmployeesBusinessLib\EmployeeProject\bin\Debug\netcoreapp3.1\Menue.pdb
+D:\C#\Tasks\Final Project\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.exe
+D:\C#\Tasks\Final Project\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.deps.json
+D:\C#\Tasks\Final Project\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.runtimeconfig.json
+D:\C#\Tasks\Final Project\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.runtimeconfig.dev.json
+D:\C#\Tasks\Final Project\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.dll
+D:\C#\Tasks\Final Project\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeeProject.pdb
+D:\C#\Tasks\Final Project\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeesBusinessLib.dll
+D:\C#\Tasks\Final Project\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeesEntity.dll
+D:\C#\Tasks\Final Project\EmployeeProject\bin\Debug\netcoreapp3.1\Menue.dll
+D:\C#\Tasks\Final Project\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeesBusinessLib.pdb
+D:\C#\Tasks\Final Project\EmployeeProject\bin\Debug\netcoreapp3.1\EmployeesEntity.pdb
+D:\C#\Tasks\Final Project\EmployeeProject\bin\Debug\netcoreapp3.1\Menue.pdb
+D:\C#\Tasks\Final Project\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.csprojAssemblyReference.cache
+D:\C#\Tasks\Final Project\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.AssemblyInfoInputs.cache
+D:\C#\Tasks\Final Project\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.AssemblyInfo.cs
+D:\C#\Tasks\Final Project\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.csproj.CoreCompileInputs.cache
+D:\C#\Tasks\Final Project\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.csproj.CopyComplete
+D:\C#\Tasks\Final Project\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.dll
+D:\C#\Tasks\Final Project\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.pdb
+D:\C#\Tasks\Final Project\EmployeeProject\obj\Debug\netcoreapp3.1\EmployeeProject.genruntimeconfig.cache
